@@ -8,10 +8,14 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+
 import com.example.week6.databinding.FragmentMovieBinding;
 
 import java.util.List;
 
+/**
+ * TODO: Replace the implementation with code for your data type.
+ */
 public class MyMovieRecyclerViewAdapter extends RecyclerView.Adapter<MyMovieRecyclerViewAdapter.ViewHolder> {
 
     int selectIndex;
